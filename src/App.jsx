@@ -1,10 +1,10 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { Mail, Phone, Linkedin, Youtube, Github, Download, ExternalLink, ArrowRight, CheckCircle2 } from "lucide-react";
-import { Button } from "@/components/ui/button";
-import { Card, CardHeader, CardTitle, CardContent, CardDescription } from "@/components/ui/card";
-import { Input } from "@/components/ui/input";
-import { Textarea } from "@/components/ui/textarea";
+import { Button } from "./components/ui/button";
+import { Card, CardHeader, CardTitle, CardContent, CardDescription } from "./components/ui/card";
+import { Input } from "./components/ui/input";
+import { Textarea } from "./components/ui/textarea";
 
 const PROFILE = {
   name: "Shivanshu Sharma",
